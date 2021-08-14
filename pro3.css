@@ -1,0 +1,82 @@
+﻿body
+{
+    padding-top:5px;
+    background-color:whitesmoke;
+}
+h1 {
+    color: lightsteelblue;
+}
+.nav{
+    float:right;
+    margin-top:-50px;
+    
+}
+.nav-link {
+        color:lightsteelblue;
+        font-size:19px;
+        font-weight:100;
+    }
+.image {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url("https://images.unsplash.com/photo-1497048679117-1a29644559e3?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80");
+    padding: 35px 19px 19px 59px;
+    font-size: 30px;
+    font-weight: 400;
+    color: aliceblue;
+}
+.image h1{
+
+    color: aliceblue;
+    font-size:70px;
+}
+.image span{
+    color:yellow;
+}
+.image button{
+    padding:9px 14px;
+    margin-top:30px
+}
+.between{
+    padding: 60px 40px 40px 40px;
+    color:black;
+}
+i{
+    font-size:30px;
+    padding:19px 5px 15px 5px;
+}
+.boxes {
+    padding: 60px 0 40px 0px;
+    margin:20px 0 0 0;
+    font-size:25px;
+    font-weight:500;
+}
+.boxes center{
+    padding:30px;
+}
+.b2{
+    background-color:lightgrey;
+}
+.b1{
+    background-color:darkgrey;
+}
+.circles{
+    padding:60px;
+}
+.circles center{
+    padding:10px;
+}
+.btn-circle.btn-xl {
+    width: 140px;
+    height: 140px;
+    padding: 10px 16px;
+    border-radius: 75px;
+    text-align: center;
+}
+.footer{
+    padding:60px 4px 40px 40px;
+    background-color:lightgrey;
+}
+.photo{
+    float:right;
+}
